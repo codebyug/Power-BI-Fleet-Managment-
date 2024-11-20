@@ -122,8 +122,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ### Revenue Insights Dashboard
 ![Fleet Management Dashboard - Revenue Insights](fleet2.png)
 
-### Key Customer Retention Insights
-![Customer Retention Insights](Screenshot-2024-11-17.png)
 
 ---
 
