@@ -68,6 +68,37 @@ This repository contains an interactive Power BI dashboard for managing and anal
 4. **Sustainability Initiatives**:
    - Monitor fuel consumption to improve eco-efficiency.
    - Explore alternative energy options for fleet vehicles.
+   - # Driver Tooltip in Power BI Dashboard
+
+## Overview
+- **Purpose**: To provide a concise summary of key driver performance metrics at a glance.
+- **Tool**: Created using **Power BI's Tooltip Feature** to enhance the interactivity of the dashboard.
+
+## Features
+1. **Key Metrics Displayed**:
+   - **Total Drive**: The total distance driven by the driver.
+   - **Average Fuel Efficiency**: Efficiency in terms of fuel usage per kilometer.
+   - **Total Fuel Consumed per km**: Fuel consumption for each kilometer traveled.
+   - **Total Fuel Cost per km**: Cost incurred for fuel per kilometer.
+   - **Average Driver Speed**: Average speed of the driver during the trip.
+
+2. **Design Highlights**:
+   - Clean and minimalistic design with a focus on readability.
+   - Utilized color contrasts to improve visualization clarity.
+
+3. **Dynamic Data Integration**:
+   - Tooltip dynamically adjusts based on driver-specific data selected in the dashboard.
+   - Ensures real-time updates with filters applied.
+
+## Benefits
+- Enhances the user's ability to evaluate driver performance quickly.
+- Reduces the need to navigate multiple pages for detailed information.
+- Supports decision-making by providing actionable insights in a compact format.
+
+## Technologies Used
+- **Power BI**: For data modeling and visualization.
+- **Data Sources**: Integrated metrics from tables such as `Dim_Drivers`, `Factable_Freight`, and others.
+
 
 ---
 
